@@ -21,3 +21,5 @@ function printDate(dateNow) {
 }
 
 date(printDate);
+
+// npm run callback
